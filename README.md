@@ -26,7 +26,7 @@
 ## 📫 Let's connect! You can reach me via :
 <p align="center" width="250">
 <a href="https://twitter.com/markadavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markadavi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/MarkadAvinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashmarkad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/markadavinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashmarkad" height="30" width="40" /></a>
 <a href="https://instagram.com/markad_avi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markad_avi_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avinashmarakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashmarakad" height="30" width="40" /></a>
 </p>
