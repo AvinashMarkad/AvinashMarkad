@@ -11,8 +11,8 @@
 #### 🚀 Currently, I'm working on a project to provide repair services through an web, aiming to make maintenance services more accessible and efficient.We even try published a paper on it!
 
 ## 💻 Proficient in: 
-#### - Frontend: React,JavaScript, HTML, CSS
-#### - Backend: Node.js, Express
+#### - Frontend: React,JavaScript, Django, HTML, CSS
+#### - Backend: Node.js, Express, Python
 #### - Database: MongoDB, SQL
 
 ### 🎓 I'm always eager to learn new things and stay updated with the latest in technology.
