@@ -1,4 +1,4 @@
-![logo](https://github.com/ganeshgagare/ganeshgagare/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg)
+![logo](https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg)
 
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 
