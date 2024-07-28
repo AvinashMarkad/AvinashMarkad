@@ -33,7 +33,7 @@
 
 ## Contributions :
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmarkad&" alt="avinashmarkad" /></p>
+<p align="center" height="500" width="500"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmarkad&" alt="avinashmarkad" /></p>
 
 ## Profession :
 
