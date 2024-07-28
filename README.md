@@ -1,4 +1,4 @@
-👋 Hi, I'm AVINASH!
+#👋 Hi, I'm AVINASH!
 
 🌍 Based in Nairobi, Kenya.
 
