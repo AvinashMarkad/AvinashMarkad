@@ -2,7 +2,7 @@
 
 ## 🌍 Based in Nairobi, Kenya.
 
-####🚀 Currently, I'm working on a project to provide food services through an web, aiming to make services more accessible and efficient.
+#### 🚀 Currently, I'm working on a project to provide food services through an web, aiming to make services more accessible and efficient.
 
 #### 🔧 I'm a passionate developer working on innovative projects, including web. I have experience in various technologies and love solving problems through code.
 
@@ -11,7 +11,7 @@
 #### 🚀 Currently, I'm working on a project to provide repair services through an web, aiming to make maintenance services more accessible and efficient.We even try published a paper on it!
 
 ## 💻 Proficient in: 
-#### - Frontend: React, HTML, CSS
+#### - Frontend: React,JavaScript, HTML, CSS
 #### - Backend: Node.js, Express
 #### - Database: MongoDB, SQL
 
