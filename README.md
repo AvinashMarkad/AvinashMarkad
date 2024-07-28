@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     <h1 align="center">Hi 👋, I'm Avinash</h1>
     <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -41,8 +33,7 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashmarkad&show_icons=true&locale=en&layout=compact" alt="avinashmarkad" /></p>
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmarkad&" alt="avinashmarkad" /></p>  
-</body>
-</html>
+
 # 👋 Hi, I'm AVINASH!
 
 ## 🌍 Based in Nairobi, Kenya.
