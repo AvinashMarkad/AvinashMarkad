@@ -1,6 +1,6 @@
 ![logo](https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg)
 
-<h1 align="center">Hi 👋, I'm Avinash</h1>
+<h1 align="center">Hi 👋, I'm <h1>Avinash</h1></h1>
 
 <h2 align="center" >A passionate fullstack developer from India</h2>
 
