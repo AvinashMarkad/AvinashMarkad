@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">👋 Hello, I'm **Avinash**! Welcome to my GitHub profile.</h1>
+<h1 align="center">👋 Hello, I'm Avinash! Welcome to my GitHub profile.</h1>
 
 <h2 align="center" >A passionate fullstack developer from India</h2>
 
