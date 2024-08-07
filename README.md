@@ -19,7 +19,7 @@
 
 #### 📚 I recently completed a project on an Employee Management System, which was a great team effort with three other talented individuals. We even published a paper on it!
 
-#### 🚀 Currently, I'm working on a project to provide repair services through an web, aiming to make maintenance services more accessible and efficient.We even try published a paper on it!
+#### 🚀 Currently, I'm working on a project to provide Document Verification : Analysis of Overlapping Images & QR/Barcode Code services through an web, aiming to make Verification services more accessible and efficient.We even try published a paper on it!
 
 ## 💻 Proficient in: 
 #### - Frontend: React,JavaScript, Django, HTML, CSS
