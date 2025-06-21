@@ -1,17 +1,18 @@
-![logo](https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg)
-
-
-
 <h1 align="center">👋 Hello, I'm Avinash! Welcome to my GitHub profile.</h1>
 
-<h2 align="center" >A passionate fullstack developer from India</h2>
+<h2 align="center">A passionate fullstack developer from India</h2>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+![logo](https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg)
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left" size="1000"> <img src="https://komarev.com/ghpvc/?username=avinashmarkad&label=Profile%20views&color=0e75b6&style=flat" alt="avinashmarkad" /> </p>
 
-
 ## 🌍 Based in Pune, India.
+
+## 🚀 Live Projects:
+1. [AI Mock Interview Platform](https://ai-mock-interview-platform-alpha.vercel.app/sign-in)
+2. [Blog Hosting Platform](https://blog-hosting-liart.vercel.app/)
 
 #### 🚀 Currently, I'm working on a project to provide food services through an web, aiming to make services more accessible and efficient.
 
@@ -37,7 +38,6 @@
 
 ## Contributions :
 
-
 <p align="center">
 <a> 
 <a href="https://github.com/AvinashMarkad"><img alt="Avinash Markad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvinashMarkad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -48,6 +48,5 @@
 
 ![Avinash Markad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashMarkad&custom_title=Avinash%20Markad's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
 ## Profession :
-<p align="right" ><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="avinashmarkad" /></p>
+<p align="right"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="avinashmarkad" /></p>
