@@ -74,6 +74,28 @@ Built a responsive AI-based interview platform with voice interaction, domain-ba
 <tr>
 <td width="50%">
 
+### ❄️ [Cool Air Web Platform](https://github.com/AvinashMarkad/cool-air-web-platform)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Responsive Design
+
+Converted HTML website for Cool Air Enterprises into a modern, responsive Next.js application with professional branding and enhanced functionality.
+
+</td>
+<td width="50%">
+
+### 📋 [Service Report App (Web-to-APK)](https://github.com/AvinashMarkad/service-report-app)
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**Tech Stack:** Web Technologies • APK Conversion • PDF Generation • Digital Signatures
+
+Created a service report application with web-to-APK conversion, print functionality, automated PDF generation, and digital signature pad for enhanced workflow management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📝 [Blog Platform](https://blog-hosting-liart.vercel.app/)
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
@@ -127,8 +149,6 @@ Exploring cutting-edge technologies and building innovative solutions.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Frontend Technologies
 
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
@@ -138,23 +158,17 @@ Exploring cutting-edge technologies and building innovative solutions.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Backend & Database
 
-
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="30"> Tools & Technologies
 
-
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white&labelColor=6C47FF)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213760677-fccd9e7d-80e8-49c6-b2f2-8efd6c728341.gif" width="30"> AI & ML
-
-
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
