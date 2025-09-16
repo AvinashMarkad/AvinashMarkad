@@ -51,6 +51,14 @@
 <table>
 <tr>
 <td width="50%">
+  
+### ❤️ [Heart Disease Prediction App](https://avinashmarkad-heart-disease-prediction-app-avinash-icxuhd.streamlit.app/)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+**Tech Stack:** Streamlit • Python • Scikit-learn • Pandas • Joblib  
+
+An interactive web app that predicts the likelihood of heart disease using a trained Logistic Regression model. Users can input medical parameters such as age, cholesterol, resting BP, ECG results, and exercise-induced angina to get real-time predictions.
+
 
 ### 💻 [The Coding Diary](https://github.com/AvinashMarkad/the-coding-diary)
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
