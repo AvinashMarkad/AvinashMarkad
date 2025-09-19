@@ -59,6 +59,7 @@
 
 An interactive web app that predicts the likelihood of heart disease using a trained Logistic Regression model. Users can input medical parameters such as age, cholesterol, resting BP, ECG results, and exercise-induced angina to get real-time predictions.
 
+
 ### 🎭 [Emotion Detection App](https://emotion-detection-by-avinash.streamlit.app/)
 <img src="https://user-images.githubusercontent.com/74038190/212271178-5a12f5ac-5c49-4aa2-a95b-9f0a99c4d76e.gif" width="100">
 
@@ -66,7 +67,6 @@ An interactive web app that predicts the likelihood of heart disease using a tra
 
 An interactive web app that detects emotions in text using a **TF-IDF vectorizer** and a **Logistic Regression model**.  
 Users can train the model on an emotion dataset, view evaluation metrics (accuracy, classification report, confusion matrix), and input custom sentences to get real-time emotion predictions with probability scores.
-
 
 ### 💻 [The Coding Diary](https://github.com/AvinashMarkad/the-coding-diary)
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
@@ -143,6 +143,7 @@ Created a secure knowledge base system for storing and retrieving information on
 
 </td>
 <td width="50%">
+
 
 ### 🚀 More Projects Coming Soon...
 <img src="https://user-images.githubusercontent.com/74038190/213760677-fccd9e7d-80e8-49c6-b2f2-8efd6c728341.gif" width="100">
