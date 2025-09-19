@@ -11,138 +11,75 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg" alt="Profile Banner" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <img src="https://github.com/AvinashMarkad/AvinashMarkad/blob/main/a0b0869be6a75f9a4943d8f435a728edited.jpg" alt="Profile Banner" width="100%">
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding Animation">
-</td>
-<td align="center" width="50%">
-  
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> About Me
-
-🌍 **Based in Pune, Maharashtra, India**  
-🎓 **B.E. Computer Engineering Student**  
-📍 **Ajeenkya D.Y Patil School of Engineering**  
-⭐ **CGPA: 8.88**  
-💼 **Former Frontend Developer Intern**  
-🏢 **GrapeDawn.Tech (Oct 2024 - Jan 2025)**  
-🔬 **Published Researcher** in Document Verification  
-🏆 **GitHub PRO Member** with Pull Shark (×3)  
-
-</td>
-</tr>
-</table>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=avinashmarkad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/AvinashMarkad?label=Followers&style=for-the-badge&color=4ECDC4" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Hiring Status">
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-  
+<td width="50%" valign="top">
+
 ### ❤️ [Heart Disease Prediction App](https://avinashmarkad-heart-disease-prediction-app-avinash-icxuhd.streamlit.app/)
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
 
 **Tech Stack:** Streamlit • Python • Scikit-learn • Pandas • Joblib  
 
 An interactive web app that predicts the likelihood of heart disease using a trained Logistic Regression model. Users can input medical parameters such as age, cholesterol, resting BP, ECG results, and exercise-induced angina to get real-time predictions.
 
+---
 
 ### 🎭 [Emotion Detection App](https://emotion-detection-by-avinash.streamlit.app/)
-<img src="https://user-images.githubusercontent.com/74038190/212271178-5a12f5ac-5c49-4aa2-a95b-9f0a99c4d76e.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212271178-5a12f5ac-5c49-4aa2-a95b-9f0a99c4d76e.gif" width="120">
 
 **Tech Stack:** Streamlit • Python • Scikit-learn • Pandas • Matplotlib • Seaborn  
 
 An interactive web app that detects emotions in text using a **TF-IDF vectorizer** and a **Logistic Regression model**.  
 Users can train the model on an emotion dataset, view evaluation metrics (accuracy, classification report, confusion matrix), and input custom sentences to get real-time emotion predictions with probability scores.
 
-### 💻 [The Coding Diary](https://github.com/AvinashMarkad/the-coding-diary)
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+---
 
-**Tech Stack:** Next.js • TypeScript • JavaScript • Tailwind CSS • shadcn/ui • Clerk • Firebase
+### 💻 [The Coding Diary](https://github.com/AvinashMarkad/the-coding-diary)
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
+
+**Tech Stack:** Next.js • TypeScript • JavaScript • Tailwind CSS • shadcn/ui • Clerk • Firebase  
 
 A comprehensive daily problem-solving platform featuring problem of the day solutions, user authentication, and admin dashboard for content management.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎤 [AI Mock Interview Platform](https://ai-mock-interview-platform-alpha.vercel.app/sign-in)
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
 
-**Tech Stack:** Next.js • TypeScript • Firebase • NLP • JavaScript
+**Tech Stack:** Next.js • TypeScript • Firebase • NLP • JavaScript  
 
 Built a responsive AI-based interview platform with voice interaction, domain-based questions, and real-time feedback using NLP and Firebase.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### ❄️ [Cool Air Web Platform](https://github.com/AvinashMarkad/cool-air-web-platform)
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Responsive Design
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Responsive Design  
 
 Converted HTML website for Cool Air Enterprises into a modern, responsive Next.js application with professional branding and enhanced functionality.
 
-</td>
-<td width="50%">
+---
 
 ### 📋 [Service Report App (Web-to-APK)](https://github.com/AvinashMarkad/service-report-app)
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120">
 
-**Tech Stack:** Web Technologies • APK Conversion • PDF Generation • Digital Signatures
+**Tech Stack:** Web • APK Conversion • PDF Generation • Digital Signatures  
 
 Created a service report application with web-to-APK conversion, print functionality, automated PDF generation, and digital signature pad for enhanced workflow management.
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
-### 📝 [Blog Platform](https://blog-hosting-liart.vercel.app/)
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-**Tech Stack:** React.js • Next.js • CSS3
-
-A dynamic blog platform with modern UI/UX and responsive design.
-
-</td>
-<td width="50%">
-
-### 🍕 Food Delivery Web App
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-**Tech Stack:** React.js • JSX • CSS3 • HTML5 • JavaScript
-
-Developed a responsive food ordering interface using React components and dynamic routing.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Information Security Knowledge Base Agent
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="100">
-
-**Tech Stack:** Python • Django • Bootstrap • HTML5
-
-Created a secure knowledge base system for storing and retrieving information on cybersecurity topics.
-
-</td>
-<td width="50%">
 
 
 ### 🚀 More Projects Coming Soon...
